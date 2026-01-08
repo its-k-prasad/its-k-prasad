@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone, 👋
 # 💫 About Me:
 🎯 I’m currently working as per intern at genaikit software solution private limited. I’m building AI-powered applications using LangChain, FastAPI, and vector databases. I’m mainly focused on improving chatbot performance, RAG pipelines, and integrating LLM features into real-world products.
 🤝 I’m looking to collaborate on<br><br>I’d love to work with others on generative AI projects—especially anything related to AI chatbots, document analysis, voice-enabled tools, or automation using LLMs.
